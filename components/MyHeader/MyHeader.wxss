@@ -1,0 +1,46 @@
+/* components/MyHeader/MyHeader.wxss */
+.MyHeader {
+  display: flex;
+  align-items: center;
+  padding: 10rpx;
+  background-color: #fff;
+}
+.logo {
+  flex: 7;
+}
+
+.search {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.user {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.down_app {
+  flex: 2;
+  font-size: 30rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: pink;
+  color: #fff;
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
+.logo_img {
+  width: 140rpx;
+  height: 60rpx;
+}
+.search_img {
+  width: 52rpx;
+  height: 44rpx;
+}
+.user_img {
+  width: 54rpx;
+  height: 60rpx;
+}

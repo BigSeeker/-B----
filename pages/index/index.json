@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "MyHeader": "../../components/MyHeader/MyHeader",
+    "mp-icon": "../../weui-miniprogram/icon/icon"
+  },
+  "navigationBarTitleText": "bilibili"
+}
